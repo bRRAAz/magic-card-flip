@@ -137,8 +137,12 @@ function Index() {
           </button>
 
           <div
-            className="carta-scene carta-pop-in w-full max-w-[min(480px,82vw)]"
-            style={{ aspectRatio: "2 / 3" }}
+            className="carta-scene carta-pop-in"
+            style={{
+              aspectRatio: "2 / 3",
+              height: "min(78vh, 640px)",
+              maxWidth: "85vw",
+            }}
             onClick={(e) => e.stopPropagation()}
           >
             <button
