@@ -1,0 +1,8 @@
+[
+  { "id": 1, "frente": "/cartas/1_frente.svg", "tras": "/cartas/1_tras.svg" },
+  { "id": 2, "frente": "/cartas/2_frente.svg", "tras": "/cartas/2_tras.svg" },
+  { "id": 3, "frente": "/cartas/3_frente.svg", "tras": "/cartas/3_tras.svg" },
+  { "id": 4, "frente": "/cartas/4_frente.svg", "tras": "/cartas/4_tras.svg" },
+  { "id": 5, "frente": "/cartas/5_frente.svg", "tras": "/cartas/5_tras.svg" },
+  { "id": 6, "frente": "/cartas/6_frente.svg", "tras": "/cartas/6_tras.svg" }
+]
