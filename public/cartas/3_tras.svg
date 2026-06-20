@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
-  <rect width="400" height="600" rx="32" fill="#FAF7F2"/>
-  <rect x="14" y="14" width="372" height="572" rx="24" fill="none" stroke="#E6D9C2" stroke-width="2"/>
-  <circle cx="200" cy="120" r="22" fill="#F4C7B4"/>
-  <text x="200" y="320" font-family="Georgia, serif" font-size="32" fill="#5C4A3A" text-anchor="middle"><tspan x="200" dy="0">Quando você se</tspan><tspan x="200" dy="44">sente em paz?</tspan></text>
-  <text x="200" y="540" font-size="18" fill="#A08C72" text-anchor="middle" font-style="italic">— responda no seu tempo —</text>
-</svg>

@@ -95,6 +95,9 @@ function Index() {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(novas));
     } catch (e) {
       console.error("Falha ao salvar cartas", e);
+      alert(
+        "Atenção: Não foi possível salvar as cartas no navegador porque o tamanho acumulado das imagens excede o limite de armazenamento do navegador (localStorage, máximo de ~5MB). Para salvar permanentemente, reduza bastante a resolução/tamanho das imagens ou use o modo avançado colocando as imagens diretamente na pasta 'public/cartas/' do projeto e editando o arquivo 'cartas.json'."
+      );
     }
   }, []);
 
