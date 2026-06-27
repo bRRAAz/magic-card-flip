@@ -1,0 +1,16 @@
+[
+  {
+    "id": "terapeutico",
+    "nome": "Baralho Terapêutico",
+    "descricao": "Cartas para sessões de psicologia infantil.",
+    "capa": "/baralhos/terapeutico-capa.jpg",
+    "cartas": "/cartas/cartas.json"
+  },
+  {
+    "id": "exemplo",
+    "nome": "Novo Baralho (exemplo)",
+    "descricao": "Baralho de exemplo — adicione as imagens em public/baralhos/exemplo/ e edite cartas.json.",
+    "capa": "/baralhos/exemplo/capa.jpg",
+    "cartas": "/baralhos/exemplo/cartas.json"
+  }
+]
