@@ -1,1 +1,7 @@
-[]
+[
+  { "id": 1, "frente": "/baralhos/exemplo/1_frente.jpg", "tras": "/baralhos/exemplo/1_tras.jpg" },
+  { "id": 2, "frente": "/baralhos/exemplo/2_frente.jpg", "tras": "/baralhos/exemplo/2_tras.jpg" },
+  { "id": 3, "frente": "/baralhos/exemplo/3_frente.jpg", "tras": "/baralhos/exemplo/3_tras.jpg" },
+  { "id": 4, "frente": "/baralhos/exemplo/4_frente.jpg", "tras": "/baralhos/exemplo/4_tras.jpg" },
+  { "id": 5, "frente": "/baralhos/exemplo/5_frente.jpg", "tras": "/baralhos/exemplo/5_tras.jpg" }
+]
