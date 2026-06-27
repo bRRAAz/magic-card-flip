@@ -3,5 +3,10 @@
   { "id": 2, "frente": "/baralhos/exemplo/2_frente.jpg", "tras": "/baralhos/exemplo/2_tras.jpg" },
   { "id": 3, "frente": "/baralhos/exemplo/3_frente.jpg", "tras": "/baralhos/exemplo/3_tras.jpg" },
   { "id": 4, "frente": "/baralhos/exemplo/4_frente.jpg", "tras": "/baralhos/exemplo/4_tras.jpg" },
-  { "id": 5, "frente": "/baralhos/exemplo/5_frente.jpg", "tras": "/baralhos/exemplo/5_tras.jpg" }
+  { "id": 5, "frente": "/baralhos/exemplo/5_frente.jpg", "tras": "/baralhos/exemplo/5_tras.jpg" },
+  { "id": 6, "frente": "/baralhos/exemplo/6_frente.jpg", "tras": "/baralhos/exemplo/6_tras.jpg" },
+  { "id": 7, "frente": "/baralhos/exemplo/7_frente.jpg", "tras": "/baralhos/exemplo/7_tras.jpg" },
+  { "id": 8, "frente": "/baralhos/exemplo/8_frente.jpg", "tras": "/baralhos/exemplo/8_tras.jpg" },
+  { "id": 9, "frente": "/baralhos/exemplo/9_frente.jpg", "tras": "/baralhos/exemplo/9_tras.jpg" },
+  { "id": 10, "frente": "/baralhos/exemplo/10_frente.jpg", "tras": "/baralhos/exemplo/10_tras.jpg" }
 ]
