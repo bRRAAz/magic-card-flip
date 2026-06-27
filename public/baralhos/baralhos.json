@@ -8,8 +8,8 @@
   },
   {
     "id": "exemplo",
-    "nome": "Novo Baralho (exemplo)",
-    "descricao": "Baralho de exemplo — adicione as imagens em public/baralhos/exemplo/ e edite cartas.json.",
+    "nome": "Baralho da Copa",
+    "descricao": "Cartas com tema de futebol para conversar com a criança sobre atitudes de adultos — cartão amarelo para alerta e cartão vermelho para situações graves.",
     "capa": "/baralhos/exemplo/capa.jpg",
     "cartas": "/baralhos/exemplo/cartas.json"
   }

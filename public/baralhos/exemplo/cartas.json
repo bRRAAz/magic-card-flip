@@ -8,5 +8,8 @@
   { "id": 7, "frente": "/baralhos/exemplo/7_frente.jpg", "tras": "/baralhos/exemplo/7_tras.jpg" },
   { "id": 8, "frente": "/baralhos/exemplo/8_frente.jpg", "tras": "/baralhos/exemplo/8_tras.jpg" },
   { "id": 9, "frente": "/baralhos/exemplo/9_frente.jpg", "tras": "/baralhos/exemplo/9_tras.jpg" },
-  { "id": 10, "frente": "/baralhos/exemplo/10_frente.jpg", "tras": "/baralhos/exemplo/10_tras.jpg" }
+  { "id": 10, "frente": "/baralhos/exemplo/10_frente.jpg", "tras": "/baralhos/exemplo/10_tras.jpg" },
+  { "id": 11, "frente": "/baralhos/exemplo/11_frente.jpg", "tras": "/baralhos/exemplo/11_tras.jpg" },
+  { "id": 12, "frente": "/baralhos/exemplo/12_frente.jpg", "tras": "/baralhos/exemplo/12_tras.jpg" },
+  { "id": 13, "frente": "/baralhos/exemplo/13_frente.jpg", "tras": "/baralhos/exemplo/13_tras.jpg" }
 ]
